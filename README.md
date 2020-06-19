@@ -1,6 +1,6 @@
 # Python-Data_Structure-and-Algorithm
 Python数据结构与算法——公众号《小杨的python之路》
-
+![Alt text](https://github.com/YZYloveTDQ/Python-Data_Structure-and-Algorithm/blob/master/image/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97.jpg)
 
 - [《开工！Python数据结构与算法》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000018&idx=1&sn=4b537f91171e7265d89e91f64185038f&chksm=69e7dd435e9054557aa123a07a3a60e87b10c20b7c20bac29adfde1a42a4d14083698f952cac#rd)
 - [《Python数据类型的性能——列表list和字典dict》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000074&idx=1&sn=9adcec1722afe04e79892da59e33026e&chksm=69e7dd1b5e90540dce0b901a773fe31864bca3a68f88997afa92f21284a83223c619f46ca178#rd)
