@@ -13,3 +13,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——队列应用之打印机模式》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000228&idx=1&sn=0c4bb7624802d36961d15d01d8c42920&chksm=69e7ddb55e9054a338391c88b6794b26418c38e9af07cbb5b789d54731d1f51ba8e67604c653#rd)
 - [《Python数据结构与算法——双端队列Dequeue》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000259&idx=1&sn=671547d847e142edd702dcd0069efc14&chksm=69e7de525e90574425df62533ca094ced39b8248b9de4b7f616126c65ecda0433c29484f8e3e#rd)
 - [《Python数据结构与算法——链表》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000337&idx=1&sn=37d8d828274d467194a60f9028436312&chksm=69e7de005e905716f9644e8cb18ec8820bb19d1adb1fb75422c8bbd792f15aecb75b5b974803#rd)
+- [《Python数据结构与算法——有序表》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000394&idx=1&sn=d14f36cbb35c9e2b4bc98868e8d10f10&chksm=69e7dedb5e9057cdd13e465651e05b25db8ba3c9efbdb6e4ced54f45f1f9ad02427eaed68fc8#rd)
