@@ -14,3 +14,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——双端队列Dequeue》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000259&idx=1&sn=671547d847e142edd702dcd0069efc14&chksm=69e7de525e90574425df62533ca094ced39b8248b9de4b7f616126c65ecda0433c29484f8e3e#rd)
 - [《Python数据结构与算法——链表》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000337&idx=1&sn=37d8d828274d467194a60f9028436312&chksm=69e7de005e905716f9644e8cb18ec8820bb19d1adb1fb75422c8bbd792f15aecb75b5b974803#rd)
 - [《Python数据结构与算法——有序表》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000394&idx=1&sn=d14f36cbb35c9e2b4bc98868e8d10f10&chksm=69e7dedb5e9057cdd13e465651e05b25db8ba3c9efbdb6e4ced54f45f1f9ad02427eaed68fc8#rd)
+- [《Python数据结构与算法——递归》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000441&idx=1&sn=47ced78ebdc5a15c6111c99c22a4b012&chksm=69e7dee85e9057fea524c24fa18275c1201bc43b0c7bfaaf8b54067d556019fbe102a6301f48#rd)
