@@ -18,3 +18,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——递归应用之进制转换》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000527&idx=1&sn=f639ec9c73d728091b0674873f01ad7b&chksm=69e7df5e5e9056487ee3a122b9ca7526faa0375c8a083f4840353d3780b7a29483c3bb30ed69#rd)
 - [《Python数据结构与算法—分形树》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000605&idx=1&sn=6fcbf585e15de0d36c3bb502b99309b3&chksm=69e7df0c5e90561a8bae33b750f4bad3686ae1e50ee5154feefc22eb8cea386e6c2653644584#rd)
 - [《Python数据结构与算法——谢尔宾斯基三角形（递归可视化）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000677&idx=1&sn=79a4c60f514c2b9896a572973cefed9f&chksm=69e7dff45e9056e22fe47abdca7faa3978bd1c02db8c231e82c236df6426fb4fc4e213b3036f#rd)
+- [《Python数据结构与算法—汉诺塔（递归应用）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000699&idx=1&sn=1a892a70b8d5ece7387775c738660df5&chksm=69e7dfea5e9056fc6ee992e175769a6aa984e73ddaa862664541c6108563e675995d53d1ef80#rd)
