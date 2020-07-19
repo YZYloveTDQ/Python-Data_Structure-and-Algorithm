@@ -20,4 +20,5 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——谢尔宾斯基三角形（递归可视化）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000677&idx=1&sn=79a4c60f514c2b9896a572973cefed9f&chksm=69e7dff45e9056e22fe47abdca7faa3978bd1c02db8c231e82c236df6426fb4fc4e213b3036f#rd)
 - [《Python数据结构与算法—汉诺塔（递归应用）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000699&idx=1&sn=1a892a70b8d5ece7387775c738660df5&chksm=69e7dfea5e9056fc6ee992e175769a6aa984e73ddaa862664541c6108563e675995d53d1ef80#rd)
 - [《Python数据结构与算法——探索迷宫（递归应用）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000711&idx=1&sn=878a360f311e53bd838f2d1ff112657e&chksm=69e7df965e905680fda1aaef3794458924cd97bf5e82cbcf09bafb4857fa9bf2bb454dcc73a6#rd)
-- [《 Python数据结构与算法—优化问题与贪心策略》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000879&idx=4&sn=ba2aa9b1fda6984369073d2e143d728a&chksm=69e7d83e5e90512806b5f38ff44e9abdd51dee735c745be5a2e3b923d11fe3aac829eee054e4#rd)
+- [《Python数据结构与算法—优化问题与贪心策略》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000879&idx=4&sn=ba2aa9b1fda6984369073d2e143d728a&chksm=69e7d83e5e90512806b5f38ff44e9abdd51dee735c745be5a2e3b923d11fe3aac829eee054e4#rd)
+- [《Python数据结构与算法——找零兑换问题递归解法》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001261&idx=1&sn=bbcd3e82db291dc0c12366b19187af4d&chksm=69e7d9bc5e9050aa19980464dfa7cf20a08f05ed25b044f5d061e6b1b3df78115e241925a941#rd)
