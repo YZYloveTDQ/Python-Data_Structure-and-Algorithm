@@ -25,3 +25,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——动态规划》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001615&idx=1&sn=649c2b30016126f2aeb4191d2d5e592b&chksm=69e7db1e5e9052084b950231f984b4d4761fa3c4f595a06f0bc2226a3d1782d56e3ae8e4b178#rd)
 - [《Python数据结构与算法——递归总结》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001615&idx=3&sn=1ba1176be0a291ae1dacdf92a764b0cb&chksm=69e7db1e5e9052080bee8cbc86023ef3aa286b298cc205d09bea843b24021293192327cfd122#rd)
 - [《Python数据结构与算法——顺序查找》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001713&idx=1&sn=cc0e4bcca17b6665e7088249e3c84b6e&chksm=69e7dbe05e9052f621a28f28040fcad5f0a97c6cdcc11da358b7484d52e99db0fd0730c41f98#rd)
+- [《 Python数据结构与算法——二分查找》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001756&idx=1&sn=1be1827a7794e1d01879347c226e8807&chksm=69e7db8d5e90529b6abc688339be6b315bcd5f531b232444bbe22cddcf47debbc39321de96e7#rd)
