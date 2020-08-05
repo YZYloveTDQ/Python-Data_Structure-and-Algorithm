@@ -30,3 +30,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——选择排序》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001915&idx=1&sn=95eea540b8b525efd7255bf05b5cc56a&chksm=69e7d42a5e905d3c159efb2ff0e4f0f1ab6c675b053d7d57cb1be8284bd9bc582a63951a59b8#rd)
 - [《Python数据结构与算法——插入排序》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001935&idx=1&sn=c1889c59aa5cc94ea1088307c9152753&chksm=69e7d4de5e905dc8b5f6d8a00a7c8d0817b57f5e18a68acab036616f9a59542d9b32f9336aae#rd)
 - [《Python数据结构与算法——树结构》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001965&idx=1&sn=793964ad1e008977109b71f053afd551&chksm=69e7d4fc5e905dea2f25df6c788e2800a801f3287eb0566ebe888e697805f38bb82681153c93#rd)
+- [《Python数据结构与算法——二叉树的遍历》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002021&idx=1&sn=ef4f3d099ee2713477369033c9001824&chksm=69e7d4b45e905da2d39e4daafa76f096164123850ddeb7d4a746cdfd70b69adb12848cfff8fd#rd)
