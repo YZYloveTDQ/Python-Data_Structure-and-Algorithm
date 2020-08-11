@@ -33,3 +33,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《Python数据结构与算法——二叉树的遍历》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002021&idx=1&sn=ef4f3d099ee2713477369033c9001824&chksm=69e7d4b45e905da2d39e4daafa76f096164123850ddeb7d4a746cdfd70b69adb12848cfff8fd#rd)
 - [《Python数据结构与算法——散列（Hash）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002075&idx=1&sn=4c847aeb45d5d0827ba8f770925f54d6&chksm=69e7d54a5e905c5c35945c5758038d61f76e11c6cc21046277d850164b7b51a8779e45f480b0#rd)
 - [《散列的应用——区块链技术》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002114&idx=1&sn=134faf4e95e07425a89a87cf8ef78073&chksm=69e7d5135e905c056a67f58df87fa2337fd92cfb979bc23b0eebe94dfcb3f2cd41e783082839#rd)
+- [《希尔排序（Shell Sort）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002142&idx=1&sn=e4634914404fa21299f7906d30a9c560&chksm=69e7d50f5e905c19e0e9adff73647905048a7113310429d9bcbec5c42cde634509e569e3b9bf#rd)
