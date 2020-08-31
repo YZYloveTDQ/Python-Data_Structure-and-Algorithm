@@ -36,3 +36,4 @@ Python数据结构与算法——公众号《小杨的python之路》
 - [《希尔排序（Shell Sort）》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002142&idx=1&sn=e4634914404fa21299f7906d30a9c560&chksm=69e7d50f5e905c19e0e9adff73647905048a7113310429d9bcbec5c42cde634509e569e3b9bf#rd)
 - [《Python数据结构与算法——归并排序》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002163&idx=1&sn=a4f1c97ca61b0162e1d900f71752734b&chksm=69e7d5225e905c34176c3027225d251e4ef0af04eca61a35a3043d678d8b43771ebce0023999#rd)
 - [《Python数据结构与算法——快速排序》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002225&idx=1&sn=5aa0c0490035d6848bc3bb2505ce183e&chksm=69e7d5e05e905cf67061881b35fa81244caf7951ea536638a36b58e3d7d2c0dae914c75f0cb2#rd)
+- [《Python数据结构与算法——图结构》](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002238&idx=1&sn=bb84fbbb74f9db203ce26e28ff16846b&chksm=69e7d5ef5e905cf93674f0b714620111d155d48964b96a794e307351743f479cff8a897d779f#rd)
